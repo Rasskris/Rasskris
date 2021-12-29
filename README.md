@@ -1,4 +1,4 @@
-![wathers](https://img.shields.io/github/watchers/rasskris/rasskris.svg)
+![wathers](https://img.shields.io/github/watchers/rasskris/rasskris?color=green&style=social)
 
 ### Hi there 👋
 
