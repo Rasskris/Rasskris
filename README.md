@@ -1,3 +1,5 @@
+![wathers](https://img.shields.io/github/watchers/rasskris/rasskris.svg)
+
 ### Hi there 👋
 
 :boom: **I'm a passionate frontend developer from Russia**
