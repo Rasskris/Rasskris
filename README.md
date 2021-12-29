@@ -1,4 +1,4 @@
-![wathers](https://img.shields.io/github/watchers/rasskris/rasskris?color=green&style=social)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rasskris.rasskris&left_color=black&right_color=green) 
 
 ### Hi there 👋
 
