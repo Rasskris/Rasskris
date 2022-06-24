@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-:boom: **I'm a passionate frontend developer from Russia**
+:boom: **I'm a passionate frontend developer**
 
 ![Kristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasskris&theme=merko&show_icons=true)
 
