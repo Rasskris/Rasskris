@@ -6,12 +6,6 @@
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasskris&theme=merko&layout=compact)
 
-### LeetCode Stats
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Rasskris&theme=dark" width="400"/>
-</a>
-
-
 <h4 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
